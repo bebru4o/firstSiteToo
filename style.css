@@ -1,0 +1,70 @@
+
+.avatarka {
+    border-radius: 9px;
+    box-shadow: 3px 3px 3px rgb(104, 101, 101);
+    margin: 20px 20px ;
+
+                        }
+.site{
+max-width: 1200px;   
+padding: 25px 25px; 
+}
+.font{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card{
+    background-color: #edde8bd4;
+    border-radius: 10px;
+    padding: 10px 20px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin: 10px;
+    
+    }
+
+.card2{
+    background-color: #5cdb3cb1;
+    border-radius: 10px;
+    padding: 10px 10px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin: 10px;
+    
+    }
+
+.contact h2{
+    text-align: center;
+
+}
+.form-group label{
+display: block;
+
+}
+
+
+.form-group input,
+form-group textarea{
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid rgb(148, 144, 144);
+    color: black;
+    outline: none;
+  
+width: 100%;
+font-family: inherit;
+
+}
+.info{
+    display: fixed;
+    margin-bottom: 20px;
+}
+
+@media (max-width : 700px){
+.info{display: block;}
+}
+.form-group h2{
+text-align: center;
+
+}
